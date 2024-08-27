@@ -4,3 +4,4 @@
 local opt = vim.opt
 
 opt.spelllang = { "en", "cjk" }
+opt.relativenumber = false

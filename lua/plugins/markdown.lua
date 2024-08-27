@@ -29,9 +29,6 @@ return {
     end,
   },
   {
-    "metakirby5/codi.vim", --黑客的交互式便签
-  },
-  {
     "norcalli/nvim-colorizer.lua",
     config = function()
       require("colorizer").setup({ "css", "scss", "html", "javascript" }, {
